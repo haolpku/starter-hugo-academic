@@ -12,6 +12,10 @@ social: []
 organizations:
   - name: Peking University
     url: https://www.pku.edu.cn/
+  - name: Oxford University
+    url: https://www.ox.ac.uk/
+  - name: Beijing Institute of Technology
+    url: https://www.bit.edu.cn/
 education:
   courses:
     - course: Ph.D. in Data Science
