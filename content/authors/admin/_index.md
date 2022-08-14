@@ -8,21 +8,9 @@ interests:
   - Computational Mathematics
   - Applied Mathematics and AI for Science
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/haolpku
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
@@ -31,6 +19,9 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Peking University
       year: 2028
+    - course: Visiting Student in Mathematics and Computer Science
+      institution: Oxford University
+      year: 2023
     - course: BSc in Information and Computing Science
       institution: Beijing Institute of Technology
       year: 2023
