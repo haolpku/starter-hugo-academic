@@ -8,10 +8,7 @@ interests:
   - Computational Mathematics
   - Applied Mathematics
   - AI for Science
-social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/haolpku
+social: []
 organizations:
   - name: Peking University
     url: https://www.pku.edu.cn/
