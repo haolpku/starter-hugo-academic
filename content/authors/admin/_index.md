@@ -13,8 +13,8 @@ social:
     icon_pack: fab
     link: https://github.com/haolpku
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peking University
+    url: https://www.pku.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
