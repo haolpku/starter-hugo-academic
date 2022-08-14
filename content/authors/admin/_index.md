@@ -6,7 +6,8 @@ bio: My research interests include computational mathematics, applied
   mathematics and AI for Science.
 interests:
   - Computational Mathematics
-  - Applied Mathematics and AI for Science
+  - Applied Mathematics
+  - AI for Science
 social:
   - icon: github
     icon_pack: fab
