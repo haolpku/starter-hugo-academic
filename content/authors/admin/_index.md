@@ -27,8 +27,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hao Liang will be a Ph.D. student at Peking University in 2023 fall. He will major in Data Science, supervised by professor Weinan E. His research interests include computational mathematics, applied mathematics and AI for Science. He welcomes all students who is interested in mathematics or computer science to work with him.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hao_Liang_s_Curriculum_Vitae.pdf" "newtab" >}}resumé{{< /staticref >}}.
