@@ -25,7 +25,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: C
+    icon: fa-c
     icon_pack: fab
     name: C/C++
     
