@@ -2,12 +2,11 @@
 title: Hao Liang
 role: PhD Student of PKU
 avatar_filename: photo.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include computational mathematics, applied
+  mathematics and AI for Science.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Mathematics
+  - Applied Mathematics and AI for Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,14 +29,11 @@ organizations:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Peking University
+      year: 2028
+    - course: BSc in Information and Computing Science
+      institution: Beijing Institute of Technology
+      year: 2023
 email: ""
 superuser: true
 highlight_name: true
