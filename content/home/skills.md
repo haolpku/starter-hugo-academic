@@ -22,11 +22,11 @@ feature:
     name: Statistics
   - description: 100%
     icon: python
-    icon_pack: fax
+    icon_pack: fab
     name: Python
   - description: 100%
     icon: C
-    icon_pack: fax
+    icon_pack: fab
     name: C/C++
     
 # Uncomment to use emoji icons.
