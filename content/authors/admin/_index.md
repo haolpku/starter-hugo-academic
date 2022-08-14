@@ -14,7 +14,7 @@ organizations:
     url: https://www.pku.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Ph.D. in Data Science
       institution: Peking University
       year: 2028
     - course: Visiting Student in Mathematics and Computer Science
