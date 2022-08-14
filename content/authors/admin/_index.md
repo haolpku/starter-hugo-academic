@@ -29,4 +29,4 @@ highlight_name: true
 ---
 Hao Liang will be a Ph.D. student at Peking University in 2023 fall. He will major in Data Science, supervised by professor Weinan E. His research interests include computational mathematics, applied mathematics and AI for Science. He welcomes all students who is interested in mathematics or computer science to work with him.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hao_Liang_s_Curriculum_Vitae.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Hao_Liang_s_Curriculum_Vitae.pdf" "newtab" >}}CV{{< /staticref >}}.
