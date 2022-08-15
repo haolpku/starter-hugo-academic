@@ -25,7 +25,7 @@ experience:
   - title: internship student
     company: University of British Columbia
     company_url: ''
-    company_logo: org-bc
+    company_logo: org-gc
     location: Vancouver, Canada
     date_start: '2022-06-27'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: internship student
     company: The Chinese University of Hong Kong
     company_url: ''
-    company_logo: org-ck
+    company_logo: org-x
     location: Hong Kong, China
     date_start: '2022-05-20'
     date_end: ''
