@@ -42,7 +42,7 @@ education:
     - course: BSc in Information and Computing Science
       institution: Beijing Institute of Technology
       year: 2023
-email: ""
+email: lianghao618@hotmail.com
 superuser: true
 highlight_name: true
 ---
