@@ -38,7 +38,7 @@ experience:
   - title: internship student
     company: The Chinese University of Hong Kong
     company_url: ''
-    company_logo: org-cuhk
+    company_logo: org-ck
     location: Hong Kong, China
     date_start: '2022-05-20'
     date_end: ''
@@ -47,7 +47,7 @@ experience:
   - title: internship student
     company: North Carolina State University
     company_url: ''
-    company_logo: org-ncsu
+    company_logo: org-nc
     location: North Carolina, USA
     date_start: '2022-01-20'
     date_end: ''
@@ -56,9 +56,9 @@ experience:
   - title: internship student
     company: North Carolina State University
     company_url: ''
-    company_logo: org-ncsu
+    company_logo: org-nc
     location: North Carolina, USA
-    date_start: '2022-07-01'
+    date_start: '2021-07-01'
     date_end: ''
     description: In this research intern, he used generative adversarial network(GAN) as well as WGAN and WGAN-GP to generate data for the professor.
 design:
