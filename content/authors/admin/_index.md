@@ -46,6 +46,8 @@ email: lianghao618@hotmail.com
 superuser: true
 highlight_name: true
 ---
+*Wir müssen wissen. Wir werden wissen. -------*David Hilbert
+
 Hao Liang will be a Ph.D. student at Peking University in 2023 fall. He will major in Data Science, supervised by professor Weinan E. His research interests include computational mathematics, applied mathematics and AI for Science. He welcomes all students who is interested in mathematics(computational mathematics, applied mathematics, ML theory) or computer science(AI) to work with him.
 
 Also he is interested in interdisciplinary research. He is willing to communicate with scholars in other disciplines.
