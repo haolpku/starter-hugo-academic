@@ -23,27 +23,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: internship student
-    university: University of British Columbia
+    company: University of British Columbia
     company_url: ''
     company_logo: org-gc
-    location: Vancouver
+    location: Vancouver, Canada
     date_start: '2022-06-27'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Paper reading(ML theory)
+        * Writing reports
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: internship student
+    company: The Chinese University of Hong Kong
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Hong Kong, China
+    date_start: '2022-5-20'
+    date_end: ''
+    description: Use deep neural networks to do prediction of proteins.
 
 design:
   columns: '2'
