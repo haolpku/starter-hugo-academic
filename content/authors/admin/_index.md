@@ -1,6 +1,6 @@
 ---
 title: Hao Liang
-role: Ph.D. Student at Peking University
+role: Ph.D. Student at PKU
 avatar_filename: avatar.png
 bio: My research interests include computational mathematics, applied
   mathematics and AI for Science.
