@@ -31,13 +31,13 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.ncsu.edu/
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    date_start: '2020-06-30'
+    description: In this project, he used python to do prediction of stocks and used Tableau to do visualization. He got 100 points in the final presentation.
     organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    organization_url: https://www.ncsu.edu/
+    title: Data Analysis Programme
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
