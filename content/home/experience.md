@@ -31,7 +31,6 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Paper reading(ML theory)
         * Writing reports
 
