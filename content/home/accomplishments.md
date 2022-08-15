@@ -35,7 +35,7 @@ item:
     date_end: ''
     date_start: '2020-06-30'
     description: In this project, he used python to do prediction of stocks and used Tableau to do visualization. He got 100 points in the final presentation.
-    organization: edX
+    organization: ncsu
     organization_url: https://www.ncsu.edu/
     title: Data Analysis Programme
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
