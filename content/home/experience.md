@@ -62,5 +62,5 @@ experience:
     date_end: ''
     description: In this research intern, he used generative adversarial network(GAN) as well as WGAN and WGAN-GP to generate data for the professor.
 design:
-  columns: '2'
+  columns: '4'
 ---
