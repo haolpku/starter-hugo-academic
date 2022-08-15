@@ -25,7 +25,7 @@ experience:
   - title: internship student
     company: University of British Columbia
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-bc
     location: Vancouver, Canada
     date_start: '2022-06-27'
     date_end: ''
@@ -38,27 +38,25 @@ experience:
   - title: internship student
     company: The Chinese University of Hong Kong
     company_url: ''
-    company_logo: org-x
+    company_logo: org-cuhk
     location: Hong Kong, China
-    date_start: '2022-5-20'
+    date_start: '2022-05-20'
     date_end: ''
     description: Use deep neural networks to do prediction of proteins.
 
   - title: internship student
     company: North Carolina State University
     company_url: ''
-    company_logo: org-x
+    company_logo: org-ncsu
     location: North Carolina, USA
     date_start: '2022-01-20'
     date_end: ''
-    description: In this research intern, he used Natural Language Processing(NLP) models to extract
-features from sentences. Also he tried to do some auto-grading works by comparing semantic
-similarity and completed a paper.
+    description: In this research intern, he used Natural Language Processing(NLP) models to extract features from sentences. Also he tried to do some auto-grading works by comparing semantic similarity and completed a paper.
     
   - title: internship student
     company: North Carolina State University
     company_url: ''
-    company_logo: org-x
+    company_logo: org-ncsu
     location: North Carolina, USA
     date_start: '2022-07-01'
     date_end: ''
