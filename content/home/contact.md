@@ -30,17 +30,17 @@ content:
   address:
     street: Majiapu Street
     city: Beijing
-    region: BJ
+    region: CN
     postcode: '100068'
     country: China
     country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '40'
+    longitude: '116'
+  directions: 
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Weekdays 8:00AM to 12:00PM'
+    - 'Weekends 12:00AM to 12:00PM'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
