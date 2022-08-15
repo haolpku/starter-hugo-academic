@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
     date_end: ''
     date_start: '2021-01-25'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: stanford
+    organization_url: https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+    title: Computer Vision CS231n
+    url: ''
+  - certificate_url: https://www.bilibili.com/video/BV1Wv411h7kN?spm_id_from=333.337.search-card.all.click&vd_source=ed351dc9285a910fe2a4cb0c85b46090
+    date_end: '2020-12-21'
+    date_start: '2021-06-01'
+    description: ''
+    organization: taiwan
+    organization_url: https://www.bilibili.com/video/BV1Wv411h7kN?spm_id_from=333.337.search-card.all.click&vd_source=ed351dc9285a910fe2a4cb0c85b46090
+    title: Machine Learning (NTU)
     url: ''
   - certificate_url: https://www.ncsu.edu/
     date_end: ''
@@ -39,14 +47,6 @@ item:
     organization_url: https://www.ncsu.edu/
     title: Data Analysis Programme
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
 
 design:
   columns: '2'
