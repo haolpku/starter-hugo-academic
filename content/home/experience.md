@@ -25,7 +25,7 @@ experience:
   - title: internship student
     company: University of British Columbia
     company_url: ''
-    company_logo: org-gc
+    company_logo: ubc
     location: Vancouver, Canada
     date_start: '2022-06-27'
     date_end: ''
