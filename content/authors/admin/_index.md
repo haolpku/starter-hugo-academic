@@ -5,9 +5,9 @@ avatar_filename: avatar.png
 bio: My research interests include computational mathematics, applied
   mathematics and AI for Science.
 interests:
+  - AI for Science
   - Computational Mathematics
   - Applied Mathematics
-  - AI for Science
 social:
   - icon: envelope
     icon_pack: fas
